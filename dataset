@@ -1,0 +1,25 @@
+Dataset Description
+
+The dataset represents an e-commerce system with three main tables:
+
+1. Orders
+
+* order_id: Unique order identifier
+* user_id: Customer ID
+* product_id: Product ID
+* amount: Order value
+* order_date: Date of purchase
+
+ 2. Users
+
+* user_id: Unique customer ID
+* signup_date: Date user joined
+* region: Customer location
+
+3. Products
+
+* product_id: Unique product ID
+* category: Product category
+* price: Product price
+
+These tables simulate a real-world transactional database.
